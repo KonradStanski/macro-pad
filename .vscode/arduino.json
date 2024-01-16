@@ -1,5 +1,5 @@
 {
-    "board": "arduino:avr:micro",
     "sketch": "macro-pad.ino",
-    "port": "/dev/tty.usbmodem2101"
+    "board": "arduino:avr:micro",
+    "port": "/dev/tty.usbmodemHIDJB1"
 }
